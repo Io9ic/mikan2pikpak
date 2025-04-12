@@ -1,0 +1,5 @@
+logs/
+processed_magnets.db
+myrss.code-workspace
+myrss.service
+config.py

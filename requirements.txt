@@ -1,0 +1,7 @@
+feedparser
+bencodepy
+httpx
+pikpakapi
+schedule
+customtkinter
+pillow
